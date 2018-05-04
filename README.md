@@ -20,8 +20,8 @@ Los usuarios estarán interesados en el ahorro compartido si se les ofrece valor
 
 Recursos:
 
-[Mitofsky - Los Mexicanos y el Ahorro 2017]((./assets/resources/mitofsky-los-mexicanos-y-el-ahorro.pdf)
-[Encuesta Nacional de Inclusión Financiera 2015](./assets/resources/ENIF 2015.pdf)
+[Mitofsky - Los Mexicanos y el Ahorro 2017](http://consulta.mx/index.php/estudios-e-investigaciones/mexico-opina/item/954-los-mexicanos-y-el-ahorro)
+[Encuesta Nacional de Inclusión Financiera 2015](http://www.cnbv.gob.mx/Inclusi%C3%B3n/Paginas/Encuestas.aspx)
 
 
 
@@ -50,7 +50,7 @@ User target:
 
 Recursos:
 
-[Informe Brandwatch - Sector Financiero en México 2017](./assets/resources/Informe de Brandwatch_ Sector financiero en México _ Brandwatch.pdf)
+[Informe Brandwatch - Sector Financiero en México 2017](https://www.brandwatch.com/es/reports/informe-brandwatch-sector-financiero-en-mexico/)
 [Modelos de Negocios - Bancos](./assets/resources/modelos_de_negocio_bancos.pdf)
 
 
