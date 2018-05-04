@@ -1,4 +1,5 @@
 # BBVA PLAN - METAS COMPARTIDAS
+ Ver prototipo aquí: https://app.atomic.io/d/6iUXfnGP3yvr
 
 ## RETO
 
