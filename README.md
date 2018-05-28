@@ -1,3 +1,5 @@
+![246x0w](https://user-images.githubusercontent.com/32871457/40625142-49d9e368-6276-11e8-95b1-f34089b11bd9.jpg)
+
 # BBVA PLAN - METAS COMPARTIDAS
  [Ver prototipo aquí](https://app.atomic.io/d/6iUXfnGP3yvr)
 
